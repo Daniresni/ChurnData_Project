@@ -1,40 +1,41 @@
-# ChurnData_Project
-Churn project -ML
-Customer Churn Prediction
+# Customer Churn Prediction
 
-Overview
+# Overview
 
 This project aims to predict customer churn for a telecommunications company within a 5-year period. Using data visualization, Python, and machine learning, the analysis identifies key factors influencing churn and builds predictive models to enhance customer retention strategies.
 
-Features
+## Features
 
-Exploratory Data Analysis (EDA): Understanding data distributions and identifying key patterns.
+- Exploratory Data Analysis (EDA): Understanding data distributions and identifying key patterns.
 
-Data Preprocessing (PREP): Handling missing values, feature engineering, and data scaling.
+- Data Preprocessing (PREP): Handling missing values, feature engineering, and data scaling.
 
-Machine Learning Models: Implementing and evaluating classification algorithms to predict churn.
+- Machine Learning Models: Implementing and evaluating classification algorithms to predict churn.
 
-Tableau Visualization: Analyzing the results of the machine learning model through interactive dashboards.
+- Tableau Visualization: Analyzing the results of the machine learning model through interactive dashboards.
 
-Technologies Used
 
-Python
+## Technologies Used
 
-Pandas, NumPy
+- Python
 
-Matplotlib, Seaborn
+- Pandas, NumPy
 
-Scikit-learn
+- Matplotlib, Seaborn
 
-Jupyter Notebook
+- Scikit-learn
 
-Tableau
+- Jupyter Notebook
 
-Installation
+- Tableau
+
+
+## Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo.git
+[git clone https://github.com/your-username/your-repo.git
+](https://github.com/Daniresni/ChurnData_Project)
 
 Navigate to the project directory:
 
@@ -48,7 +49,8 @@ Run the Jupyter Notebook to explore the analysis and models.
 
 Use Tableau to visualize the processed dataset and model results.
 
-Usage
+
+## Usage
 
 Open the notebook and run the cells sequentially.
 
@@ -58,14 +60,16 @@ Analyze the visualizations to gain insights into customer churn behavior.
 
 Use the Tableau dashboard to explore the final dataset and predictions interactively.
 
-Contributing
+
+## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-License
+## License
 
 This project is licensed under the MIT License.
 
-Contact
+## Contact
 
-For any inquiries, you can reach me at danielresni@gmail.com
+For any inquiries, you can reach me at [your email or GitHub profile].
+
