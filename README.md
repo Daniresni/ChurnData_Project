@@ -71,5 +71,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, you can reach me at [your email or GitHub profile].
+For any inquiries, you can reach me at danielresni@gmail.com
 
